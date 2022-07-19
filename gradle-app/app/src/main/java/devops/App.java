@@ -5,7 +5,7 @@ package devops;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello World! Welcome to devops training programes";
     }
 
     public static void main(String[] args) {
